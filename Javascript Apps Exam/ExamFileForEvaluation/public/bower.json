@@ -1,0 +1,19 @@
+{
+  "name": "public",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "handlebars.js": "https://github.com/wycats/handlebars.js.git#~4.0.2",
+    "jquery": "https://github.com/jquery/jquery.git#~2.1.4",
+    "sammy": "https://github.com/quirkey/sammy.git#~0.7.6",
+    "SHA-1": "https://github.com/linkgod/SHA-1.git#~0.1.1",
+    "system.js": "https://github.com/systemjs/systemjs.git#~0.18.17"
+  }
+}
