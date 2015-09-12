@@ -1,0 +1,16 @@
+{
+  "name": "Forture-Cookies-Sep-2015",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "system.js": "https://github.com/systemjs/systemjs.git#~0.18.17"
+  }
+}
