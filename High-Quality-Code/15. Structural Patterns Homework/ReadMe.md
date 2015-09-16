@@ -1,5 +1,5 @@
-#Домашно за структурни шаблони
+п»ї#Р”РѕРјР°С€РЅРѕ Р·Р° СЃС‚СЂСѓРєС‚СѓСЂРЅРё С€Р°Р±Р»РѕРЅРё
 
-	*[Adapter шаблон]()
-	*[Flyweight шаблон]()
-	*[Proxy шаблон]()
+	* [Adapter С€Р°Р±Р»РѕРЅ](https://github.com/glifada/TelerikAcademy/blob/master/High-Quality-Code/15.%20Structural%20Patterns%20Homework/Adapter%20Pattern.md)
+	* [Flyweight С€Р°Р±Р»РѕРЅ](https://github.com/glifada/TelerikAcademy/blob/master/High-Quality-Code/15.%20Structural%20Patterns%20Homework/Flyweight%20Pattern.md)
+	* [Proxy С€Р°Р±Р»РѕРЅ](https://github.com/glifada/TelerikAcademy/blob/master/High-Quality-Code/15.%20Structural%20Patterns%20Homework/Proxy%20Pattern.md)
