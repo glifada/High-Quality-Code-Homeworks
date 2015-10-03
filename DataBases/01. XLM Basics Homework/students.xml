@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xslt" ?>
+<students xmlns:students="urn:students">
+  <student>
+    <name>Ivan Ivanov</name>
+    <sex>male</sex>
+    <birthDate>1995-02-13</birthDate>
+    <phone>0887541236</phone>
+    <email>ivanov@yahoo.com</email>
+    <course>C#</course>
+    <specialty>QA</specialty>
+    <facultyNumber>123456</facultyNumber>
+    <exams>
+      <exam>
+        <name>C# - Part I</name>
+        <tutor>
+          <name>Doncho Minkov</name>
+          <endorsements>DB</endorsements>
+        </tutor>
+        <score>89</score>
+        <date>2015-02-16</date>
+      </exam>
+      <exam>
+        <name>C# - Part II</name>
+        <tutor>
+          <name>Doncho Minkov</name>
+          <endorsements>DB</endorsements>
+        </tutor>
+        <score>75</score>
+        <date>2015-03-20</date>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Petar Petrov</name>
+    <sex>male</sex>
+    <birthDate>1995-05-28</birthDate>
+    <phone>0887541236</phone>
+    <email>petrov@yahoo.com</email>
+    <course>C#</course>
+    <specialty>QA</specialty>
+    <facultyNumber>654123</facultyNumber>
+    <exams>
+      <exam>
+        <name>C# - Part I</name>
+        <tutor>
+          <name>Doncho Minkov</name>
+          <endorsements>DB</endorsements>
+        </tutor>
+        <score>69</score>
+        <date>2015-02-16</date>
+      </exam>
+      <exam>
+        <name>C# - Part II</name>
+        <tutor>
+          <name>Doncho Minkov</name>
+          <endorsements>DB</endorsements>
+        </tutor>
+        <score>72</score>
+        <date>2015-03-20</date>
+      </exam>
+    </exams>
+  </student>
+</students>
