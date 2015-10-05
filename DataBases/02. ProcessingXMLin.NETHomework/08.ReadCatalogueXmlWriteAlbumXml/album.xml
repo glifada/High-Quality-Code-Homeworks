@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+	<album>
+		<name>Primitive Love</name>
+		<artist>Miami Sound Machine</artist>
+	</album>
+	<album>
+		<name>Mi Tierra</name>
+		<artist>Gloria Estefan</artist>
+	</album>
+	<album>
+		<name>Anything for You</name>
+		<artist>Miami Sound Machine</artist>
+	</album>
+</albums>

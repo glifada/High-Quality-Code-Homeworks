@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue name="Albums Ctalogue">
+  <album>
+    <name>Primitive Love</name>
+    <artist>Miami Sound Machine</artist>
+    <year>1985</year>
+    <producer>Emilio Estefan Jr.</producer>
+    <price>18</price>
+    <songs>
+      <song>
+        <title>La Conga</title>
+        <duration>5:59</duration>
+      </song>
+      <song>
+        <title>Bad Boy</title>
+        <duration>6:24</duration>
+      </song>
+      <song>
+        <title>Body To Body</title>
+        <duration>6:49</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Mi Tierra</name>
+    <artist>Gloria Estefan</artist>
+    <year>2011</year>
+    <producer>Epic Records</producer>
+    <price>22</price>
+    <songs>
+      <song>
+        <title>Con Los Anos Que Me Quedan</title>
+        <duration>4:37</duration>
+      </song>
+      <song>
+        <title>Mi Tierra</title>
+      </song>
+      <song>
+        <title>Ayer</title>
+        <duration>5:18</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Anything for You</name>
+    <artist>Miami Sound Machine</artist>
+    <year>1987</year>
+    <producer>Emilio Estefan Jr.</producer>
+    <price>21</price>
+    <songs>
+      <song>
+        <title>Betcha Say That</title>
+        <duration>5:59</duration>
+      </song>
+      <song>
+        <title>Let It Loose</title>
+        <duration>6:24</duration>
+      </song>
+      <song>
+        <title>Can't Stay Away From You</title>
+        <duration>6:49</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>

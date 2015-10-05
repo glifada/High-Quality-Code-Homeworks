@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<persons>
+	<person>
+		<name>Ivan Ivanov
+</name>
+		<address>Sofia
+</address>
+		<phone>0887654346</phone>
+	</person>
+</persons>
